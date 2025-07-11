@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3>Tools</h3>
+
+![mimizae's GitHub stats](https://github-readme-stats.vercel.app/api?username=mimizae&show_icons=true&theme=radical)
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
