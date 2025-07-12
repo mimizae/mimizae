@@ -13,8 +13,8 @@
 | 🖥️ 홍익대학교 컴퓨터공학과 재학                 | -          | 2022.03 ~ now       |
 | 🕸️ 홍익대학교 UMC 6th, WEB                        | WEB 챌린저      | 2024.03 ~ 2024.08   |
 | 🩵 신촌 연합 IT 창업 동아리 CEOS                  | FE         | 2024.09 ~ 2025.02   |
-| 👚 [패션 기반 매칭 서비스, OODD](https://github.com/kick-on)            | FE         | 2024.06 ~ 2025.02   |
-| ⚽️ [축구 승부 배팅 서비스, KICK-ON](https://github.com/oodd-team/oodd-web-react)  | FE | 2025.02 ~ now       |
+| 👚 [패션 기반 매칭 서비스, OODD](https://github.com/oodd-team/oodd-web-react)            | FE         | 2024.06 ~ 2025.02   |
+| ⚽️ [축구 승부 배팅 서비스, KICK-ON](https://github.com/kick-on)  | FE | 2025.02 ~ now       |
 
 
 
