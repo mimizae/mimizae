@@ -11,6 +11,9 @@
 - 축구 승부 배팅 서비스, <a href="https://github.com/kick-on">KICK-ON</a> <sub>(2025.02 ~ now) FE 개발</sub>
 - Jetson Nano Orin Edge AI 기반 운동 자세 교정 & 스마트 피트니스 서비스, RE:PiT <sub>(2025.02 ~ now) FE & AI 개발</sub>
 
+## ✏️ Study
+- FE가 되기 위한 <a href='https://mimizae.tistory.com/'>mimizae's tistory</a>
+
 <br/>
 
 ![mimizae's GitHub stats](https://github-readme-stats.vercel.app/api?username=mimizae&show_icons=true&theme=omni)
