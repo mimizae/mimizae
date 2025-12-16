@@ -7,13 +7,13 @@
 - 대학생 연합 IT 벤처 창업 동아리 SOPT 37th, FE <sub>(2025.09 ~)</sub>
 
 ## 💬 Projects
-- 패션 기반 매칭 서비스, [OODD](https://github.com/oodd-team/oodd-web-react) <sub>(2024.06 ~ 2025.02 · FE 개발)</sub>
+- 패션 기반 매칭 서비스, <a href="https://github.com/oodd-team/oodd-web-react">OODD</a> <sub>(2024.06 ~ 2025.02) FE 개발</sub>
+- 축구 승부 배팅 서비스, <a href="https://github.com/kick-on">KICK-ON</a> <sub>(2025.02 ~ now) FE 개발</sub>
 
-- 축구 승부 배팅 서비스, [KICK-ON](https://github.com/kick-on) <sub>(2025.02 ~ now · FE 개발)</sub>
 - Jetson Nano Orin Edge AI 기반 운동 자세 교정 & 스마트 피트니스 서비스, RE:PiT <sub>(2025.02 ~ now) FE & AI 개발</sub>
 
 ## ✏️ Study
-- FE가 되기 위한 [mimizae's tistory](https://mimizae.tistory.com/)
+- FE가 되기 위한 <a href='https://mimizae.tistory.com/' target="_blank">mimizae's tistory</a>
 
 <br/>
 
