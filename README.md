@@ -16,4 +16,4 @@
 
 <br/>
 
-![mimizae's GitHub stats](https://github-readme-stats.vercel.app/api?username=mimizae&show_icons=true&theme=omni)
+![mimizae's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mimizae&show_icons=true&theme=omni)
