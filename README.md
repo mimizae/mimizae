@@ -5,16 +5,19 @@
 - 신촌 연합 IT 창업 동아리 CEOS 20th, FE <sub>(2024.09 ~ 2025.02)</sub>
 - 신촌 연합 IT 창업 동아리 CEOS 21th, FE 운영진 <sub>(2025.02 ~ 2025.08)</sub>
 - 대학생 연합 IT 벤처 창업 동아리 SOPT 37th, FE <sub>(2025.09 ~ 2026.01.31)</sub>
+- [주식회사 CODIT](https://thecodit.com/kr-ko), FE <sub>(2026.02 ~ now)</sub>
+- SOPT Makers 39th 디자인플랫폼 팀 FE, <sub>(2026.08 ~ now)</sub>
 
 ## 💬 Projects
 - 패션 기반 매칭 서비스, <a href="https://github.com/oodd-team/oodd-web-react">OODD</a> <sub>(2024.06 ~ 2025.02) FE 개발</sub>
 - 축구 승부 배팅 서비스, <a href="https://github.com/kick-on">KICK-ON</a> <sub>(2025.02 ~ now) FE 개발</sub>
 - Jetson Nano Orin Edge AI 기반 운동 자세 교정 & 스마트 피트니스 서비스, RE:PiT <sub>(2025.02 ~ 2025.11.31) FE & AI 개발</sub>
 - 건강검진 결과 해설 및 개인 상태에 맞춘 헬스케어 서비스, <a href="https://github.com/team-carena">CareNA</a> <sub>(2025.12 ~ 2026.02) FE 개발</sub>
+- 내가 설계한 모든 플랜을 한눈에 연결해 보는 실시간 맞춤형 졸업 노드맵, <a href="https://github.com/TEAM-GROWINGPOTS/GROWINGPOTS-CLIENT">GROWING POTS</a> <sub>(2026.06 ~ now) FE 개발</sub>
 
 ## ✏️ Study
 - FE가 되기 위한 <a href='https://mimizae.tistory.com/' target="_blank">mimizae's tistory</a>
 
 <br/>
 
-![mimizae's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mimizae&show_icons=true&theme=omni)
+![mimizae's GitHub stats](https://github-readme-stats.vercel.app/api?username=mimizae&show_icons=true&theme=omni)
