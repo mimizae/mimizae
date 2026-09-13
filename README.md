@@ -17,7 +17,3 @@
 
 ## ✏️ Study
 - FE가 되기 위한 <a href='https://mimizae.tistory.com/' target="_blank">mimizae's tistory</a>
-
-<br/>
-
-![mimizae's GitHub stats](https://github-readme-stats.vercel.app/api?username=mimizae&show_icons=true&theme=omni)
